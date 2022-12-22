@@ -7,11 +7,11 @@
 
 ## ⭕ SYSTEM REQUIREMENTS
 
-**CPU:** 2 cores
+- **Minimum hardware requirements**:
 
-**RAM:** 4 Gb
-
-**SSD:** 1 Gb
+| Node Type |CPU | RAM  | Storage  | 
+|-----------|----|------|----------|
+| Testnet   |   2|  4GB | 40GB     |
 
 
 ## ⭕ ACTUAL MODULE VERSION: v1.3.5a
